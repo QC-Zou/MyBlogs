@@ -1,2 +1,2 @@
 # MyBlogs
-Buckup of my blog articals
+Backup of my blog articles
